@@ -27,7 +27,7 @@ def newton_method(number,number_iters = 100):
     return number
 a=int(input())
 print("Square root of the number:",newton_method(a))
-
+```
 ## Output:
 ![image](https://github.com/Yuvan291205/Square-root-of-a-number/assets/138849170/a79c7c02-4af4-4410-b4d6-7619ccd054c1)
 
